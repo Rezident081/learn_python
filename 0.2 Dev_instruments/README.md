@@ -19,9 +19,9 @@
 ## Инструменты
 
 Для разработке на python подойдут многи IDE, но вот годный топ:
-1) PyCharm - IDE разработана компанией JetBrains - [ссылка на PyCharm](https://www.jetbrains.com/ru-ru/pycharm/)
-2) VSCode - IDE разработана компанией Microsoft (Советую ее использовать) - [ссылка на VSCode](https://code.visualstudio.com/)
-3) Sublime text - редактор разработан Джоном Скиннером (хз, кто такой) - [ссылка на Sublime text](https://www.sublimetext.com/)
+1) **PyCharm** - IDE разработана компанией JetBrains - [ссылка на PyCharm](https://www.jetbrains.com/ru-ru/pycharm/)
+2) **VSCode** - IDE разработана компанией Microsoft (Советую ее использовать) - [ссылка на VSCode](https://code.visualstudio.com/)
+3) **Sublime text** - редактор разработан Джоном Скиннером (хз, кто такой) - [ссылка на Sublime text](https://www.sublimetext.com/)
 
 Главным преимуществом VSCode над PyCharm - цена лецензии, она бесплатная.
 
